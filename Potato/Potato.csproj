@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleTest\Azure.csproj" />
+    <ProjectReference Include="..\Azure\Azure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

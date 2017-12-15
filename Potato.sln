@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potato", "Potato\Potato.csproj", "{243BD9CB-4354-4FA1-BC5F-E068241D6E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure", "ConsoleTest\Azure.csproj", "{BFA86C16-ED86-4A4C-8911-CAF6E54B28AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure", "Azure\Azure.csproj", "{BFA86C16-ED86-4A4C-8911-CAF6E54B28AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
